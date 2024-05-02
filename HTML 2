@@ -1,9 +1,4 @@
-<link rel="icon" type="image/x-icon" href="linux.jpeg"> <!-- இங்கே .ico file கொடுப்பார்கள் --> 
 
-
-https://favicon.io/
-
-https://www.favicon-generator.org/
 
 
 <p> Hi, I'm from <mark>Chennai </mark></p>
@@ -62,23 +57,6 @@ Video and audio on the web:
   <p>Your browser doesn't support HTML5 audio. Here is a <a href="viper.mp3">link to the audio</a> instead.</p>
 </audio>
 
-
-
-Browser Developer Tools: 
-Shortcut: Ctrl+Shift+I or F12
-
-https://en.wikipedia.org/wiki/Sandbox_(computer_security)
-
-https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%AF%E0%AE%A9%E0%AE%B0%E0%AF%8D:Info-farmer/%E0%AE%AE%E0%AE%A3%E0%AE%B2%E0%AF%8D%E0%AE%A4%E0%AF%8A%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF 
-
-Clickjacking
-
-Clickjacking is an interface-based attack that tricks website users into unwittingly clicking on malicious links. In clickjacking, the attackers embed their malicious links into buttons or legitimate pages in a website. In an infected Site, whenever a user clicks on a legitimate link, the attacker gets the confidential information of that user, which ultimately compromises the user's privacy on the Internet.
-
-Courtesy: https://developer.mozilla.org/en-US/docs/Glossary/Clickjacking
-
-HTTPS: 
-https://letsencrypt.org/
 
 Table Creation: 
 
@@ -215,9 +193,9 @@ Radio Buttons:
 
 Input Box - Password: 
 
-  <input type="text" id="fname" name="fname" value="Kathir"><br>
+  <input type="text" id="fname" name="fname" value="Karthi"><br>
   <label for="lname"><h3>Password:</h3></label><br>
-  <input type="password" id="lname" name="lname" value="Kumaran"><br><br>
+  <input type="password" id="lname" name="lname" value="Keyan"><br><br>
 	
 
 
